@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Coca-sse
-- 👀 I’m interested in uhhh coding ig lol
-- 🌱 I’m currently learning haxe, python, lua, java and C????!!! whoah!!!
-- 💞️ I’m looking to collaborate on IDK!!
-- 📫 How to reach me: just contact me on twitter
+i code stuff i think
